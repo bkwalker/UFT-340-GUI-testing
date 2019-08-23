@@ -8,4 +8,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebTable("Shopping Cart
 Browser("Advantage Shopping").Page("Advantage Shopping").WebTable("Shopping Cart Table").Output CheckPoint("PRODUCT NAME_2") @@ script infofile_;_ZIP::ssf25.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE")_;_script infofile_;_ZIP::ssf22.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Your shopping cart is").Check CheckPoint("Your shopping cart is empty") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Your shopping cart is")_;_script infofile_;_ZIP::ssf23.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf24.xml_;_
+
